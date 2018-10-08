@@ -16,8 +16,6 @@ vector<player> game_player;		//创建一个player类的向量来储存等级和点数和
 
 vector<hand_card> player_card;	//创建一个hand_card类的向量来储存手牌
 
-
-
 int deal_card()        //发牌
 {
 	int suit[6];
